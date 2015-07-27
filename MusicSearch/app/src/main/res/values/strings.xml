@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MusicSearch</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="enter_text_here">Enter Text Here</string>
+    <string name="search">Search</string>
+    <string name="select_your_track">Select Your Track</string>
+    <string name="please_wait">Please Wait</string>
+    <string name="lyrics">Lyrics</string>
+    <string name="error">Sorry, We can\'t find the content you\'re looking. Please try again.</string>
+    <string name="try_again">Try Again</string>
+    <string name="home_screen">Home</string>
+    <string name="click_here">Click here for full lyrics</string>
+
+</resources>
